@@ -1,0 +1,16 @@
+{
+  "name": "mid-autumn-riddles",
+  "version": "1.0.0",
+  "description": "An app to get some mid-autumn themed riddles.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai En <muikaien1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "*",
+    "mongoose": "^4.6.0"
+  }
+}
